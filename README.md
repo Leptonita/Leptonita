@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on frontend web development and audiovisual services at ✨LEPTONES ✨
+- 🔭 I’m currently working as a frontend web developer and on audiovisual services at ✨LEPTONES ✨
 - 🌱 I’m currently learning ReactJS and Javascript
 - 👯 I’m looking to collaborate on web projects
 - 📫 How to reach me: gloria@iris611.com
