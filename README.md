@@ -28,8 +28,8 @@ Here are some ideas to get you started:-->
  </p>
  
  <p align="center">  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Adobe_Premiere_Pro_CS5_icon_%282%29.png/909px-Adobe_Premiere_Pro_CS5_icon_%282%29.png?20120908054442" alt="premiere" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Adobe_Encore_CS5_icon.png"  alt="encore" width="40" height="40"/>
+  <a href="https://www.adobe.com/" target="_blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Adobe_Premiere_Pro_CS5_icon_%282%29.png/909px-Adobe_Premiere_Pro_CS5_icon_%282%29.png?20120908054442" alt="premiere" width="40" height="40"/></a>
+ <a href="https://www.adobe.com/" target="_blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Adobe_Encore_CS5_icon.png"  alt="encore" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
