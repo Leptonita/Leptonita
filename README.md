@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on web projects
 - 📫 How to reach me: gloria@iris611.com
 - 😄 Pronouns: she, we, they and this.
-- ⚡ Fun fact: I am a freelance since 2004
+- ⚡ Fun fact: I am a freelance since 2002
 
 
 <br>
