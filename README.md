@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working as a frontend web developer and on audiovisual services at ✨LEPTONES ✨
 - 🌱 I’m currently learning ReactJS and Javascript
-- 👯 I’m eager for collaborating on web projects
+- 👯 I’m eager for collaborating on web projects. I like to learn and get involved in new challenges, working hard to do the best I can.
 - 📫 How to reach me: gloria@iris611.com
 - 😄 Pronouns: she, we, they and this.
 - ⚡ Fun fact: I am a freelance since 2002, but passionate about technology since I saw for the first time a 'huge' computer which had a tiny memory cassette.
