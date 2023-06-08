@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 - 👯 I’m eager for collaborating on web projects
 - 📫 How to reach me: gloria@iris611.com
 - 😄 Pronouns: she, we, they and this.
-- ⚡ Fun fact: I am a freelance since 2002, but passionate about technology since I saw for the first time a 'huge' computer which had a very tiny memory cassette.
+- ⚡ Fun fact: I am a freelance since 2002, but passionate about technology since I saw for the first time a 'huge' computer which had a tiny memory cassette.
 
 
 <br>
