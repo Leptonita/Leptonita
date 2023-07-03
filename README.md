@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working as a frontend web developer and on audiovisual services at ✨LEPTONES ✨
-- 🌱 I’m currently learning ReactJS and Javascript
+- 🌱 I continue learning ReactJS and Javascript
 - 👯 I’m eager for collaborating on web projects. I like to learn and get involved in new challenges, working hard to do the best I can.
 - 📫 How to reach me: gloria@iris611.com
 - 😄 Pronouns: she, we, they and this.
